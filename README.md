@@ -1,0 +1,1 @@
+# auto-claim-eos-reswards
